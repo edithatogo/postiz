@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: If you use this fork, please cite it using the metadata in this file. For upstream
+  work, also follow the citation guidance at https://github.com/gitroomhq/postiz-app.
+title: Postiz (edithatogo fork)
+authors:
+- name: Postiz project
+repository-code: https://github.com/edithatogo/postiz
